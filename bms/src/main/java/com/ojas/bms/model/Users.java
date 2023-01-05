@@ -19,5 +19,6 @@ public class Users {
 	private int userId;
 	private String username;
 	private String password;
+	private String type;
 
 }
